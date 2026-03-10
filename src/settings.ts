@@ -1,8 +1,8 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
-	author_name: '', // Author name to be highlighted in the papers section
+	fullName: 'Mar Barrantes-Cepas',
+	title: 'PhD Candidate',
+	institute: 'Amsterdam UMC',
+	author_name: 'Mar Barrantes-Cepas', // Author name to be highlighted in the papers section
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 	],
